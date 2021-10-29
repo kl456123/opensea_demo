@@ -1,6 +1,6 @@
 # Opensea demo
 
-## INSTRO
+## INTRO
 * a opensea demo to demostrate how to trade NFTs in orderbook based marketplace.
 There are some kinds of sales in the project, including dutch auction english
 auction and fixedprice sale.
