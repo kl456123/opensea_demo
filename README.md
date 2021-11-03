@@ -1,12 +1,13 @@
 # Opensea demo
 
 ## INSTRO
-* a opensea demo to demostrate how to trade NFTs in orderbook based marketplace.
-There are some kinds of sales in the project, including dutch auction english
-auction and fixedprice sale.
 
+- a opensea demo to demostrate how to trade NFTs in orderbook based marketplace.
+  There are some kinds of sales in the project, including dutch auction english
+  auction and fixedprice sale.
 
 ## INSTALL
+
 ```bash
 # 1. install packages
 npm i
@@ -22,7 +23,7 @@ INFURA_KEY=xxxxxxx
 ts-node demo.ts
 ```
 
-
 ## Todo
+
 1. REST api based server and database
 2. UI
