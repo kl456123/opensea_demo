@@ -343,3 +343,4 @@ async function main() {
 }
 
 main().catch(console.error)
+providerEngine.engine.stop()
